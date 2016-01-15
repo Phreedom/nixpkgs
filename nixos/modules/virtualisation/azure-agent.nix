@@ -120,7 +120,7 @@ in
         Logs.Console=y
 
         # Enable verbose logging (y|n)
-        Logs.Verbose=n
+        Logs.Verbose=y
 
         # Root device timeout in seconds.
         OS.RootDeviceScsiTimeout=300
